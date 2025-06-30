@@ -1,0 +1,24 @@
+GIT
+create repo in git hud
+copy url
+goto linux server
+goto folder
+#  mkdir mani
+git init
+cd ..-> (back ki vachirepo ni clone chesukovali)
+git clone https://github.com/mani5282/my-files.git mani/ -> (ending lo folder name )
+cd mani
+ll
+cd ..
+ cd OneDrive/Documents/
+$ cp MANIDEEP.txt /c/users/manim/mani/
+cd 
+cd mani
+ll
+git init
+git status
+git add .
+git commit -m "manideep file added"
+git push
+
+   
